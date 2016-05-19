@@ -15,7 +15,10 @@ Find documentations that may help you create awesome stuff
 * https://rundexter.com/
 
 # hack bots
-* https://howdy.ai/botkit/
+facebook
+<p>* https://github.com/paked/messenger
+slack
+<p>* https://howdy.ai/botkit/
 * https://github.com/superscriptjs/superscript
 * https://dev.botframework.com/
 * https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html
