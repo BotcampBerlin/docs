@@ -38,6 +38,15 @@ Find documentations that may help you create awesome stuff
 # use exclusive api
 ### red bull media
 
+# hardware api
+* https://my.bt.tn/api
+* http://developer.kontakt.io/rest-api/version-8-EA/quickstart/
+* 
+
+# other api
+* https://developer-tripadvisor.com/content-api/description/
+* https://www.binarycpu.com/media/blog-post/2016/location-data-facebook-messenger-your-php-chat-bot
+
 # design bots
 * https://bots.mockuuups.com/
 
@@ -78,3 +87,8 @@ Find documentations that may help you create awesome stuff
 * http://www.chatprime.com/resources/
 * http://botnerds.com/
 * https://medium.com/chat-bots/non-techies-guide-to-building-bots-part-1-286bc93c92f9
+* http://venturebeat.com/2016/05/02/bots-dont-need-to-pass-the-turing-test-just-the-beer-test/
+
+# get inspired
+* http://www.wtfitbot.com/
+
