@@ -15,16 +15,20 @@ Find documentations that may help you create awesome stuff
 * https://rundexter.com/
 
 # hack bots
-facebook
-<p>* https://github.com/paked/messenger
-slack
-<p>* https://howdy.ai/botkit/
+### facebook
+* https://github.com/paked/messenger
+
+### slack
+* https://howdy.ai/botkit/
+ 
+### skype
+*https://dev.botframework.com/
+
+### other
 * https://github.com/superscriptjs/superscript
-* https://dev.botframework.com/
 * https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html
 * https://cloud.google.com/products/machine-learning/
 * https://azure.microsoft.com/en-us/services/cognitive-services/
-* https://github.com/paked/messenger
 * https://hubot.github.com/
 * http://errbot.io/en/latest/
 * https://www.rivescript.com/
@@ -32,7 +36,7 @@ slack
 * http://www.alicebot.org/aiml.html
 
 # use exclusive api
-* 
+### red bull media
 
 # design bots
 * https://bots.mockuuups.com/
