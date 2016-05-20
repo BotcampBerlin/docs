@@ -3,7 +3,7 @@ Find documentations that may help you create awesome stuff
 
 * <a href="https://github.com/BotcampBerlin/docs/blob/master/APIs/buildBots.md">build bots</a>
 * <a href="https://github.com/BotcampBerlin/docs/blob/master/APIs/hackBots.md">hack bots</a>
-* <a href="https://github.com/BotcampBerlin/docs/tree/master/APIs/exclusiveAPI.md">use exclusive api</a>
+* <a href="https://github.com/BotcampBerlin/docs/tree/master/APIs/exclusiveAPI">use exclusive api</a>
 * <a href="https://github.com/BotcampBerlin/docs/blob/master/APIs/hardwareAPI.md">hardware api</a>
 * <a href="https://github.com/BotcampBerlin/docs/blob/master/APIs/otherAPI.md">other api</a>
 * <a href="https://github.com/BotcampBerlin/docs/blob/master/APIs/designbots.md">design bots</a>
