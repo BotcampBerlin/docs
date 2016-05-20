@@ -7,7 +7,7 @@
 * https://howdy.ai/botkit/
  
 ### skype
-*https://dev.botframework.com/
+* https://dev.botframework.com/
 
 ### other
 * https://github.com/superscriptjs/superscript
