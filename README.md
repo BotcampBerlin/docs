@@ -1,18 +1,7 @@
 # docs
 Find documentations that may help you create awesome stuff
 
-# build bots
-* https://api.ai/
-* https://wit.ai/
-* https://developer.pandorabots.com/
-* https://beepboophq.com/
-* http://motion.ai/
-* https://chatfuel.com/
-* http://www.craft.ai/
-* https://meya.ai/
-* https://flowxo.com/
-* https://textit.in/
-* https://rundexter.com/
+### <a href="https://github.com/BotcampBerlin/docs/blob/master/build%20bots">build bots</a>
 
 # hack bots
 ### facebook
