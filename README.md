@@ -1,9 +1,9 @@
 # docs
 Find documentations that may help you create awesome stuff
 
-### <a href="https://github.com/BotcampBerlin/docs/blob/master/build%20bots">build bots</a>
+* <a href="https://github.com/BotcampBerlin/docs/blob/master/buildBots.md">build bots</a>
 
-# hack bots
+* <a href="https://github.com/BotcampBerlin/docs/blob/master/hackBots.md">hack bots</a>
 ### facebook
 * https://github.com/paked/messenger
 
